@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedScarab
-- 👀 I’m interested in learning about Penetration Testing and InfoSec
+- 👀 I’m interested in learning about Penetration Testing, InfoSec and App development
 - 🌱 I’m currently learning Cyber security and looking for an entry level security role
 - 💞️ I’m quite new to the industry and looking to branch out and upskill where I possibly can
 - 📫 Reachable via email
